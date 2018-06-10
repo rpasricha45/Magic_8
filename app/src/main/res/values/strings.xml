@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Magic 8</string>
+    <string name = "button"> Ask </string>
+    <string name = "header"> Make everyday decisions easier! </string>
+
+
+</resources>
